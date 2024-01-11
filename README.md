@@ -1,5 +1,5 @@
 ### Hi there 👋
-Innovative and detail-oriented problem solver with over 10K+ hours in professional project coordination, and over 1000+ hours and experience in information technology spanning cloud, network administration, and web development. Interested in diversifying in a way that will allow for the opportunity to excel in the digital solutions environment and in leadership.
+Innovative and detail-oriented problem solver with over 10K+ hours in professional project coordination, and over 1000+ hours and experience in information technology spanning cloud, network administration, and web development. Interested in diversifying!.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
