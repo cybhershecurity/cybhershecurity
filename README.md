@@ -1,5 +1,5 @@
 ### Hi there 👋
-Innovative and detail-oriented problem solver with over 10K+ hours in professional project coordination, and over 1000+ hours and experience in information technology spanning cloud, network administration, and web development. Interested in diversifying!.
+Innovative and detail-oriented problem solver with over 10K+ hours in professional project coordination, and over 2000+ hours and experience in information technology spanning cloud, system administration, and web development. Interested in diversifying! Dynamic and motivated cybersecurity enthusiast with a solid foundation in networking and hands-on experience in SOC environments. Proficient in threat detection, incident response, and risk mitigation.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
