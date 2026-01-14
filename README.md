@@ -1,5 +1,7 @@
 ### Hi there 👋
-Results-driven IT Professional with over 10 years of experience in identity & access management, incident response, system administration, and cybersecurity operations research. Adept at deploying security frameworks, and implementing technical solutions through code that enhance organizational efficiency. Strong communicator with the ability to bridge the gap between technical and non -technical stakeholders, ensuring seamless project execution. 
+Dynamic and motivated cybersecurity professional with a solid foundation in networking and digital forensics. Dedicated to security, my research is focused on integrating AI tools and techniques into threat detection, incident response, and risk mitigation.
+
+I aim to develop, and expand digital solutions through diligence, research and personal perseverance. 
 
 
 <!--
